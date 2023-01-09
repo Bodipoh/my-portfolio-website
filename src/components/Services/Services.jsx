@@ -7,7 +7,7 @@ import Humble from "../../img/humble.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
 import Resume from "./CV_Beryl Odipoh2.pdf";
-import Testimonial from "../Testimonials/Testimonial";
+// import Testimonial from "../Testimonials/Testimonial";
 
 const Services = () => {
   // context
